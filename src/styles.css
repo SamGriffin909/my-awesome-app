@@ -29,6 +29,10 @@ ul {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 .five-day-forecast .card {
   margin: 20px 0 50px 10;
   border-width: 1px;
