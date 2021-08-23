@@ -1,0 +1,67 @@
+body {
+  margin-top: 20px;
+  font-family: "Raleway", sans-serif;
+}
+
+h5,
+p {
+  color: #3f3d56;
+  text-align: center;
+}
+h2 {
+  color: #00a38e;
+  margin-bottom: 20px;
+}
+
+li strong {
+  font-weight: 900;
+}
+li {
+  padding: 10px 0;
+  text-align: center;
+  border-radius: 10px;
+  margin: 0 auto;
+  max-width: 400px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+.five-day-forecast .card {
+  margin: 20px 0 50px 10;
+  border-width: 1px;
+  border-radius: 10%;
+  border-color: #00a38e;
+}
+
+.rain-icon {
+  color: #3f3d56;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.sun-icon {
+  color: #00a38e;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+#city-name {
+  font-weight: 900;
+  font-size: 35px;
+  color: #00a38e;
+  text-align: center;
+}
+#city-temp {
+  font-weight: 900;
+  font-size: 45px;
+  text-align: center;
+  color: #00a38e;
+}
+
+#rain-weather-meme {
+  width: 300px;
+  height: 250px;
+}
